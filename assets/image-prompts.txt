@@ -1,0 +1,12 @@
+Tool: built-in image_gen.imagegen
+Date: 2026-10-31
+
+Asset: ego4-product-draft.png
+Reference: two recent browser screenshots, including the competitor product photo.
+Prompt:
+Use case: product-mockup. Create a clean manual product illustration, landscape, white background, one single head-worn egocentric four-camera collection device in front three-quarter view. Visual reference: the black headband device visible in the earlier browser screenshot of AperEgo 4, not the browser/page UI. Preserve its broad curved black brow housing, low rounded profile, two forward-facing circular lenses and outward angled end cameras (four cameras total, far-side lens may be partly occluded), open oval headband, soft front inner forehead pad, black adjustable fabric side bands, broad rounded rectangular padded rear module with fine ventilation slots along its top edge. Use the reference as structural inspiration; draw a fresh professional industrial-design manual illustration, charcoal polymer, subtle lens blue reflections, soft studio shading, isolated on white, all parts fully in frame. No goggles, no eye displays, no top arch helmet, no headphones. No logo, no brand, no watermark, no text or labels. This is an illustrative reference draft, avoid adding arbitrary controls or cables. Large centered object, ample white margin. Output project-ready raster image.
+
+Asset: ego4-controls-legend-draft.png
+Reference: component categories read from the competitor hardware page, described in the prompt.
+Prompt:
+Use case: infographic-diagram. Draw ONLY a conceptual controls legend for a head-worn data collection device, NOT a whole device, NOT a headset. Wide white canvas with five evenly spaced individual component illustrations in a single horizontal row; each in its own small softly outlined pale gray tile. Under each component put exactly the large blue number indicated: 01 circular power button engraved power icon; 02 volume/function rocker with plus and minus; 03 tiny neutral gray status LED; 04 USB Type-C socket, clearly oval rounded USB-C profile with center tongue; 05 TF microSD narrow card slot. Five tiles total in order left to right. No other text, no brand, no watermark. Crisp technical manual style, charcoal polymer, restrained realistic shading, blue numbers, large whitespace. Show no shared physical panel and no mounting locations: these are independent identification icons, not an assertion of real physical arrangement. Output one landscape image.
